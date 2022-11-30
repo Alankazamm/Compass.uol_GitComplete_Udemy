@@ -1,0 +1,1 @@
+Oi teste para ver o comando chekout -- <file> para discartar mudanças até o último commit feito
